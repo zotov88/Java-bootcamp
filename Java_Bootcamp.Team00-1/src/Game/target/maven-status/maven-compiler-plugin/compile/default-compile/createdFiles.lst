@@ -1,0 +1,14 @@
+game/exceptions/IllegalParametersException.class
+game/Field.class
+game/Paint.class
+game/Player.class
+chaselogic/Chase.class
+game/Enemy.class
+game/Parser.class
+game/Arguments.class
+game/App.class
+game/constants/Textures.class
+game/Point.class
+game/interfaces/MovedAble.class
+game/abstracts/AbstractMovedAble.class
+game/Program.class
